@@ -19,6 +19,7 @@ detection:
         query|endswith:
             - '.asia'
             - '.biz'
+            - '.cc'
             - '.cyou'
             - '.ddns.net'
             - '.duckdns.org'
